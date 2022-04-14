@@ -26,3 +26,5 @@ I was supposed to create a fenced code block
 That way I can have multiple linse of code
 displaying one underneath the other.
 ```
+
+I need to highlight these ==very important words==.
