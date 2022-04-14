@@ -11,3 +11,11 @@ I have to keep everything in one line. It looks like it gets converted to one li
 `Try multiline`
 `Does this work`
 `No it just creates small sisde by side blocks`
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
