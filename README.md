@@ -19,3 +19,10 @@ I have to keep everything in one line. It looks like it gets converted to one li
   "age": 25
 }
 ```
+
+
+```
+I was supposed to create a fenced code block
+That way I can have multiple linse of code
+displaying one underneath the other.
+```
